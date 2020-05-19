@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556256711175",
+    "firebase_url": "https://e-learning-app-volkeno.firebaseio.com",
+    "project_id": "e-learning-app-volkeno",
+    "storage_bucket": "e-learning-app-volkeno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556256711175:android:d84a774d861410613910a2",
+        "android_client_info": {
+          "package_name": "com.example.e_learning_volkeno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556256711175-3qrl0cn4bimh6uaipm1bsaeirqn4umf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYkS7HXL6M1nahbD3PCnnYHCbwAt3MvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556256711175-3qrl0cn4bimh6uaipm1bsaeirqn4umf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
